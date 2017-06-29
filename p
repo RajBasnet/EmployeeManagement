@@ -1,0 +1,3 @@
+A001,Raj Basnet,20000,Sat Jun 03 01:01:54 NPT 2017
+A002,Kabindra Thapa,23000,Sat Jun 03 01:02:06 NPT 2017
+A002,Kabindra Thapa,23000,Sat Jun 03 01:02:14 NPT 2017
